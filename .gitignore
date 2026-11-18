@@ -1,0 +1,13 @@
+.local/
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+coverage/
+*.log
+__pycache__/
+*.pyc
+.codex/
+cloudflared.exe

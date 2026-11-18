@@ -1,0 +1,4 @@
+korvatts
+fastapi
+uvicorn
+soundfile
